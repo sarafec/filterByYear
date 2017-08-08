@@ -1,0 +1,58 @@
+header {
+	background-color: #97667a;
+	color: #fff0d7;
+	top: 0;
+	left: 0;
+	right: 0;
+	position: fixed;
+	padding: 10px;
+	background-size: cover;
+}
+
+.title {
+	font-size: 45px;
+	margin-top: 0px;
+}
+
+.subtitle {
+	font-size: 22px;
+	margin-top: -33px;
+	margin-bottom: 0px;
+}
+
+.content-divider {
+	padding-top: 110px;
+}
+
+.slider-info {
+	font-size: 18px;
+}
+
+.slider {
+	margin-right: 50%;
+	margin-left: 32%;
+	width: 30%;
+	cursor: pointer;
+}
+
+.book-area {
+	margin-top: 20px;
+	margin-right: 50px;
+	margin-left: 50px;
+
+}
+
+.book-container {
+	margin: 5px;
+	display: inline-block;
+
+}
+
+.book-entry {
+	height: 250px;
+	width: 150px;
+}
+
+.book-entry:focus {
+	outline-color: #97667a;
+}
