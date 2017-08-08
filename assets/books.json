@@ -1,0 +1,62 @@
+[
+	{
+		"year": 1993,
+		"author": "Warren I. Cohen",
+		"title": "The Cambridge History of American Foreign Relations Volume IV: America in the age of Soviet Power 1945-1991",
+		"path": "assets/photos/american-foreign-relations.jpg"
+	},
+	{
+		"year": 2007,
+		"author": "Adeeb Khalid",
+		"title": "Islam after Communism: religion and politics in Central Asia",
+		"path": "assets/photos/islam-after-communism.jpg"
+	},
+	{
+		"year": 2010,
+		"author": "Robert D. Lee",
+		"title": "Religion and Politics in the Middle East: identity, ideology, institution, and attitudes",
+		"path": "assets/photos/religion-and-politics.jpg"
+	},
+	{
+		"year": 2010,
+		"author": "Juan Cole",
+		"title": "Engaging the Muslim World",
+		"path": "assets/photos/engaging-the-muslim-world.jpg"
+	},
+	{
+		"year": 2002,
+		"author": "Karen Armstrong",
+		"title": "Islam: a short history",
+		"path": "assets/photos/islam-a-short-history.jpg"
+	},
+	{
+		"year": 2008,
+		"author": "Mohammed Ayoob",
+		"title": "The Many Faces of Political Islam: religion and politics in the muslim world",
+		"path": "assets/photos/the-many-faces-of-political-islam.jpg"
+	},
+	{
+		"year": 1983,
+		"author": "Albert Hourani",
+		"title": "Arabic thought in the Liberal Age: 1798-1939",
+		"path": "assets/photos/arabic-though-in-the-liberal-age.jpg"
+	},
+	{
+		"year": 1987,
+		"author": "Michael H. Hunt",
+		"title": "Ideology and U.S. Foreign Policy",
+		"path": "assets/photos/ideology-and-us-foreign-policy.jpg"
+	},
+	{
+		"year": 2000,
+		"author": "Youssef M. Choueiri",
+		"title": "Arab Nationalism: a history",
+		"path": "assets/photos/arab-nationalism-a-history.jpg"
+	},
+	{
+		"year": 2000,
+		"author": "L. Carl Brown",
+		"title": "Religion and State: the Muslim approach to politics",
+		"path": "assets/photos/religion-and-state.jpg"
+	}
+]
