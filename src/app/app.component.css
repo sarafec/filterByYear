@@ -1,3 +1,4 @@
+/* HEADER AREA */
 header {
 	background-color: #673888;
 	color: #fff0d7;
@@ -24,6 +25,7 @@ header {
 	padding-top: 110px;
 }
 
+/* SLIDER AREA */
 .slider-info {
 	font-size: 18px;
 }
@@ -35,6 +37,7 @@ header {
 	cursor: pointer;
 }
 
+/* BOOK AREA */
 .book-area {
 	margin-top: 20px;
 	margin-right: 50px;

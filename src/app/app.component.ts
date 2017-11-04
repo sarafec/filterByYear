@@ -41,10 +41,13 @@ export class AppComponent implements OnInit {
 					return a - b;
 				})
 
+				// set min year for slider
 				this.minYear = Math.min(...this.yearVals);
 
+				// set max year for slider
 				this.maxYear = Math.max(...this.yearVals);
 
+				// selected year, value changes on update
 				this.selectedYear = this.sortedYearVals[0];
 
 			})

@@ -12,6 +12,7 @@ export class BookService {
 	constructor(private http: HttpClient){ }
 	private dataUrl = './assets/books.json';
 
+	// ajax request for json file
 	getData(): Observable<Books[]> {
 		return this.http.get(this.dataUrl)
 			.map(this.extractData);
